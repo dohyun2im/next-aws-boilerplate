@@ -1,4 +1,4 @@
-## github action ci cd
+## github action CI CD
 ```
 1. github action (main push)
 2. .github/workflows/ci_cd.yml run
